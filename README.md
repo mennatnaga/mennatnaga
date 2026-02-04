@@ -21,7 +21,7 @@
 
 Software engineer working on blockchain infrastructure and DeFi. I write smart contracts, build indexers, and occasionally write about it.
 
-Currently building modular lending protocols at **[Floe Labs](https://floelabs.xyz)**.
+[Full background on my website →](https://www.mennatnaga.xyz/about)
 
 ### 🌸 What I Work With
 
